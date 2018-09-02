@@ -2,7 +2,7 @@
 
 **OruxMaps** 可以查看在线、离线地图，可以查看导入的航迹文件，可以利用手机的各类传感器记录航迹信息，以供后期使用。
 
-本章主要介绍猫盟野外调查工作中需要用到的基础功能，包括：离线地图、航迹跟踪、航迹记录、路点标记等。此外OruxMaps还有许多高级功能，可访问[官方文档](http://www.oruxmaps.com/oruxmapsmanual_zh.pdf "OruxMaps中文文档")查看。
+本章主要介绍观星准备中需要用到的基础功能，包括：离线地图、航迹跟踪、航迹记录、路点标记等。此外OruxMaps还有许多高级功能，可访问[官方文档](http://www.oruxmaps.com/oruxmapsmanual_zh.pdf "OruxMaps中文文档")查看。
 
 ---
 
