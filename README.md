@@ -7,4 +7,4 @@ Black Cats Do Not Dream of Stars.
   
 ## 观看
 
-  本项目以gitbook生成，托管于 github pages 服务，可直接访问链接：（开发中…）
+  本项目以gitbook生成，托管于 `Githu Pages` 服务，可直接访问链接：（开发中…）
