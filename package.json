@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "gitbook install && gitbook build",
+    "pages": ". ./scripts/pages.sh"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,5 @@
   "bugs": {
     "url": "https://github.com/konrumi/stargazer/issues"
   },
-  "homepage": "https://github.com/konrumi/stargazer#readme"
+  "homepage": "https://konrumi.github.io/stargazer/"
 }
