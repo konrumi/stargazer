@@ -1,11 +1,11 @@
 {
   "name": "stargazer",
   "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Black Cats Do Not Dream of Stars.",
   "scripts": {
     "build": "gitbook install && gitbook build",
-    "pages": ". ./scripts/pages.sh"
+    "pages": "sh scripts/pages.sh",
+    "deploy": "npm run build && npm run pages"
   },
   "repository": {
     "type": "git",
