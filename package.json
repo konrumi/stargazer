@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Black Cats Do Not Dream of Stars.",
   "scripts": {
+    "serve": "gitbook install && gitbook serve",
     "build": "gitbook install && gitbook build",
     "pages": "sh scripts/pages.sh",
     "deploy": "npm run build && npm run pages"
